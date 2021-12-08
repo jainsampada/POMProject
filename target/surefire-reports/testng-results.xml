@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3978" started-at="2021-12-06T09:00:38 IST" finished-at="2021-12-06T09:00:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3978" started-at="2021-12-06T09:00:38 IST" finished-at="2021-12-06T09:00:42 IST">
+      <class name="com.HRM.Testcases.LaunchBrowser">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:com.HRM.Testcases.LaunchBrowser@1b68ddbd]" name="Launch" is-config="true" duration-ms="6007" started-at="2021-12-06T09:00:32 IST" finished-at="2021-12-06T09:00:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method status="PASS" signature="Checktitle()[pri:0, instance:com.HRM.Testcases.LaunchBrowser@1b68ddbd]" name="Checktitle" duration-ms="9" started-at="2021-12-06T09:00:38 IST" finished-at="2021-12-06T09:00:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checktitle -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.HRM.Testcases.LaunchBrowser@1b68ddbd]" name="Login" duration-ms="3933" started-at="2021-12-06T09:00:38 IST" finished-at="2021-12-06T09:00:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.HRM.Testcases.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
